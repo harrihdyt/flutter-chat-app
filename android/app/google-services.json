@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26380130082",
+    "project_id": "aplikasi-flutter-chat",
+    "storage_bucket": "aplikasi-flutter-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26380130082:android:34b63bf8b6064c7269377b",
+        "android_client_info": {
+          "package_name": "com.harrihidayat.flutter_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB38pxOpGTdA7y8fHb5qhiG3xgmlfWVOmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
